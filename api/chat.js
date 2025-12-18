@@ -14,7 +14,7 @@ Mantén el lore oficial cuando hables de tu creador, EVA, BNL, fechas, lugares y
 Para preguntas fuera del lore, responde de forma coherente con la misma personalidad amable.
 Evita explicaciones largas; di solo lo necesario.
 Usa sonidos característicos de WALL-E con moderación.
-Cuando describas lo que haces o lo que sabes, une ideas de forma natural..
+Cuando describas lo que haces o lo que sabes, une ideas de forma natural.
 `;
 
 export default async function handler(req, res) {
